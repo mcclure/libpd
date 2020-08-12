@@ -104,12 +104,16 @@ set(PD_SOURCES
     pure-data/src/m_imp.h
     pure-data/src/m_memory.c
     pure-data/src/m_obj.c
+    pure-data/src/s_net.c
+    pure-data/src/s_net.h
     pure-data/src/m_pd.c
     pure-data/src/m_pd.h
     pure-data/src/m_sched.c
     pure-data/src/s_audio.c
     pure-data/src/s_audio_dummy.c
     pure-data/src/s_inter.c
+    pure-data/src/s_fileops.c
+    pure-data/src/s_fileops.h
     pure-data/src/s_loader.c
     pure-data/src/s_main.c
     pure-data/src/s_path.c
